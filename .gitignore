@@ -1,0 +1,8 @@
+node_modules
+.jest
+.vscode
+coverage
+core-coverage
+dist
+junit.xml
+.DS_Store

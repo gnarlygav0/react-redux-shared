@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`core provider works with OUT configure store 1`] = `null`;
+
+exports[`core provider works with configure store 1`] = `null`;
